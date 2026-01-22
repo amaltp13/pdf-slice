@@ -1,2 +1,16 @@
-# pdf-slice
-A simple and flexible tool to slice, merge, and reorganize PDF pages. It allows users to slice pages from a single PDF, extract pages from multiple PDFs, or combine page blocks into a new file. Designed for simplicity and flexibility, PDF Slice streamlines document handling tasks such as merging, splitting, and reorganizing PDFs.
+# PDF Slice 
+PDF Slice is a simple app to slice pages from single or multiple PDFs and merge them into one file. 
+
+## Features 
+
+- Slice pages from a single PDF
+- Extract pages from multiple PDFs
+- Merge page blocks into a new PDF
+
+## Installation
+
+- No installation required, just download the file and use
+
+## dependencies
+
+-No dependencies for usage
